@@ -154,4 +154,4 @@ MIT License - Feel free to use this as a template for your projects!
 
 This project was created and is maintained by https://github.com/ParzivalXIII. You can contact me via Twitter [@ParzivalXIII].
 
-If you have any questions, feedback, or would like to contribute, please don't hesitate to reach out!
+If you have any questions, feedback, or would like to contribute, please don't hesitate to reach out.
