@@ -36,8 +36,8 @@ A reusable FastAPI starter template featuring PostgreSQL database integration, R
 1. **Clone or use this template**:
 ```bash
 # Use as template
-git clone <your-repo-url>
-cd <project-directory>
+git clone https://github.com/ParzivalXIII/fastapi-starter-kit
+cd https://github.com/ParzivalXIII/fastapi-starter-kit
 ```
 
 2. **Install dependencies**:
@@ -148,4 +148,10 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 MIT License - Feel free to use this as a template for your projects!
 ```
+---
 
+## Author
+
+This project was created and is maintained by https://github.com/ParzivalXIII. You can contact me via Twitter [@ParzivalXIII].
+
+If you have any questions, feedback, or would like to contribute, please don't hesitate to reach out!
